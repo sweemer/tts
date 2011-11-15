@@ -1,0 +1,8 @@
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\bin\Debug\Maishoku TTS CMD.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\bin\Debug\Maishoku TTS CMD.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\bin\Debug\Microsoft.Speech.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\bin\Debug\MySql.Data.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Debug\Maishoku TTS CMD.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Debug\Maishoku TTS CMD.pdb
