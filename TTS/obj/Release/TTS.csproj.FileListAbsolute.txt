@@ -1,0 +1,6 @@
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\TTS.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\TTS.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\Microsoft.Speech.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\Release\TTS.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\Release\TTS.pdb

@@ -4,3 +4,9 @@ C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Release\Maishoku TTS CMD.exe
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Release\Maishoku TTS CMD.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\TTS.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\TTS.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Release\Microsoft.Speech.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Release\TTS.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Release\TTS.pdb

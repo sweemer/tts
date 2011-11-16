@@ -6,3 +6,12 @@ C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\Maishoku TTS CMD\obj\x86\Debug\TTS.pdb
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\TTS.exe
 C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\TTS.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Debug\TTS.exe
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Debug\TTS.pdb
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Debug\Microsoft.Speech.dll
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Debug\TTS.exe.manifest
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\bin\Debug\TTS.application
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\TTS.TrustInfo.xml
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\TTS.exe.manifest
+C:\Users\Jonathan Sweemer\Documents\Visual Studio 2010\Projects\TTS CMD\TTS\obj\x86\Debug\TTS.application

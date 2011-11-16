@@ -7,7 +7,7 @@ using System.Web;
 using Microsoft.Speech.AudioFormat;
 using Microsoft.Speech.Synthesis;
 
-namespace MvcWebRole1.Controllers
+namespace Dynaptico
 {
     public class TTS
     {
@@ -17,9 +17,10 @@ namespace MvcWebRole1.Controllers
             string filename = args[1];
             SpeechSynthesizer s = new SpeechSynthesizer();
             s.SelectVoice("Microsoft Server Speech Text to Speech Voice (ja-JP, Haruka)");
-            s.SetOutputToWaveFile(filename, new SpeechAudioFormatInfo(16000, AudioBitsPerSample.Sixteen, AudioChannel.Stereo));
+            s.SetOutputToWaveFile(filename, new SpeechAudioFormatInfo(8000, AudioBitsPerSample.Sixteen, AudioChannel.Mono));
             s.Speak(text);
             s.Dispose();
         }
     }
 }
+    

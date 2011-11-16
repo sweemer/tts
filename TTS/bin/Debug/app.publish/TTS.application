@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <assemblyIdentity name="TTS.application" version="1.0.0.2" publicKeyToken="d33e2f9e8d4562b7" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="TTS" asmv2:product="TTS" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="file://macbookpro/C$/Users/Jonathan%20Sweemer/Dropbox/Dynaptico/TTS/TTS/TTS.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Client" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\TTS_1_0_0_2\TTS.exe.manifest" size="8151">
+      <assemblyIdentity name="TTS.exe" version="1.0.0.2" publicKeyToken="d33e2f9e8d4562b7" language="neutral" processorArchitecture="x86" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>tkaobSDru7HsnyFrWcYCOHc4xUQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=MacBookPro\Jonathan Sweemer" issuerKeyHash="091b6244977de516ee04373171d07a30068807a8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>qIcnEqfEZgEFI5Yzb4pJfErrgtk=</DigestValue></Reference></SignedInfo><SignatureValue>akry0Isl3zfxYmM8NQZzk8vqw6AccNHiwgLzAggHs4XhW2lW6e7SruTqdfMEG0zZO4gsQpR58vgrOw55GUAO5XA2KwdslKR/jQ+WnDmp7XbN8uKERJXmy3m1IODBDgcld5bxqDOJeA8z2mPXA3Cxj1N7J3i+Q89aicMzi9VfqQw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ut6CxV6sncCSAxUF2+nFlAyH+i+qviTlLaeWwnO4Cne7md0p3Y0MmssKwoOCePs8Mx2t+9SyF8iW4EXAgYejzlCD5XtNDYHHzdCjyvnKF1SmBTiHJxbZdebM3QKcIS/Za/4e0hSVONkJZzbOz41UdmKtYtxDdEOhkyb7vZamNHs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="d982eb4a7c498a6f339623050166c4a7122787a8" Description="" Url=""><as:assemblyIdentity name="TTS.application" version="1.0.0.2" publicKeyToken="d33e2f9e8d4562b7" language="neutral" processorArchitecture="x86" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MacBookPro\Jonathan Sweemer</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>wFk+Qnme4XeqhCfd/gMjXXnzZOM=</DigestValue></Reference></SignedInfo><SignatureValue>TFz09MY7WzdfpCSQRe3J4FmsiPO540ZhW+OeZlJqzugrSBbl1bBnRj/LZuMafwEEfhuJTqqQbWRTDcZ2bm0fxXGBux99Um+Ujf4IV6skQIbPQV46alBz0zwZgaph9UQRQoaPbjXZ5MAncYBQUFGUfR4l0PhcYf8XgcfkXKnEems=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ut6CxV6sncCSAxUF2+nFlAyH+i+qviTlLaeWwnO4Cne7md0p3Y0MmssKwoOCePs8Mx2t+9SyF8iW4EXAgYejzlCD5XtNDYHHzdCjyvnKF1SmBTiHJxbZdebM3QKcIS/Za/4e0hSVONkJZzbOz41UdmKtYtxDdEOhkyb7vZamNHs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICBTCCAW6gAwIBAgIQaZuh7NpD6q9GgVefWR63EjANBgkqhkiG9w0BAQUFADBBMT8wPQYDVQQDHjYATQBhAGMAQgBvAG8AawBQAHIAbwBcAEoAbwBuAGEAdABoAGEAbgAgAFMAdwBlAGUAbQBlAHIwHhcNMTExMTE1MTY1ODA1WhcNMTIxMTE0MjI1ODA1WjBBMT8wPQYDVQQDHjYATQBhAGMAQgBvAG8AawBQAHIAbwBcAEoAbwBuAGEAdABoAGEAbgAgAFMAdwBlAGUAbQBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALregsVerJ3AkgMVBdvpxZQMh/ovqr4k5S2nlsJzuAp3u5ndKd2NDJrLCsKDgnj7PDMdrfvUshfIluBFwIGHo85Qg+V7TQ2Bx83Qo8r5yhdUpgU4hycW2XXmzN0CnCEv2Wv+HtIUlTjZCWc2zs+NVHZirWLcQ3RDoZMm+72WpjR7AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAlj0GHh8Ni9zyr7Xm7l6wchKFNkXbxiDenzbleweJyzGOo8QRCHux0EgQA+/bNtP74ccPXZSa93d0coVf1xt7jsH2Ljbqqr22fyRdRWOZDB52hWBYBg2sKBqL8lUGmM3cloxo7oGruXtR5UP3F8SKqDSNQcCT7Q1ibPxzf71v9UU=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

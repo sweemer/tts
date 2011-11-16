@@ -6,4 +6,20 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
     <StartArguments>こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
   </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Jonathan Sweemer\Dropbox\Dynaptico\TTS\|C:\Users\Jonathan Sweemer\Dropbox\Dynaptico\</PublishUrlHistory>
+    <InstallUrlHistory>\\MacBookPro\C%24\Users\Jonathan Sweemer\Dropbox\Dynaptico\TTS\TTS\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
+  </PropertyGroup>
 </Project>
