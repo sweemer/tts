@@ -20,6 +20,6 @@
     <StartArguments>こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartArguments>こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
+    <StartArguments>ja こんにちは "C:\Users\Jonathan Sweemer\Downloads\temp.wav"</StartArguments>
   </PropertyGroup>
 </Project>
