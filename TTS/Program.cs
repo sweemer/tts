@@ -13,17 +13,22 @@ namespace Dynaptico
     {
         public static void Main(string[] args)
         {
-            string lang = args[0].ToLower();
-            string text = args[1];
-            string filename = args[2];
             SpeechSynthesizer s = new SpeechSynthesizer();
+            string lang = args[0].ToLower();
             if (lang.Equals("ja"))
                 s.SelectVoice("Microsoft Server Speech Text to Speech Voice (ja-JP, Haruka)");
             else if (lang.Equals("en"))
                 s.SelectVoice("Microsoft Server Speech Text to Speech Voice (en-US, ZiraPro)");
+            else if (lang.Equals("ko"))
+                s.SelectVoice("Microsoft Server Speech Text to Speech Voice (ko-KR, Heami)");
+            else if (lang.Equals("zh"))
+                s.SelectVoice("Microsoft Server Speech Text to Speech Voice (zh-CN, HuiHui)");
             else
                 Environment.Exit(1);
-            s.SetOutputToWaveFile(filename, new SpeechAudioFormatInfo(48000, AudioBitsPerSample.Sixteen, AudioChannel.Stereo));
+            string textfile = args[1];
+            string text = System.IO.File.ReadAllText(textfile, System.Text.Encoding.UTF8);
+            string wavefile = args[2];
+            s.SetOutputToWaveFile(wavefile, new SpeechAudioFormatInfo(48000, AudioBitsPerSample.Sixteen, AudioChannel.Stereo));
             s.Speak(text);
             s.Dispose();
         }
