@@ -28,6 +28,7 @@ namespace Dynaptico
             string textfile = args[1];
             string text = System.IO.File.ReadAllText(textfile, System.Text.Encoding.UTF8);
             string wavefile = args[2];
+            s.Volume = 100;
             s.SetOutputToWaveFile(wavefile, new SpeechAudioFormatInfo(48000, AudioBitsPerSample.Sixteen, AudioChannel.Stereo));
             s.Speak(text);
             s.Dispose();
